@@ -1,0 +1,17 @@
+student_id,activity,category,hours
+20261001,Robotics Workshop,Technical,3.5
+20261002,Football Tournament,Sports,2.0
+20261001,Python Seminar,technical,1.5
+20261003,Community Cleanup,Volunteer,4
+20261004,Design Thinking Seminar,Academic,2.5
+20261005,Chess Competition,Recreation,3
+20261002,Cybersecurity Workshop,Technical,5
+20261006,Basketball Training,Sports,2.5
+20261007,Food Bank Support,Volunteer,6
+20261008,Research Skills Seminar,Academic,1
+20261009,Invalid Hours,Technical,zero
+,Missing Student,Technical,2
+20261010,,Sports,2
+20261011,Missing Category,,3
+20261012,Negative Hours,Technical,-1
+20261013,Too,Many,Fields,2
